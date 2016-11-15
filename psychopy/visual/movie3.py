@@ -31,7 +31,7 @@ reportNDroppedFrames = 10
 import os
 
 from psychopy import logging
-from psychopy import sound
+#from psychopy import sound
 from psychopy.tools.arraytools import val2array
 from psychopy.tools.attributetools import logAttrib, setAttribute
 from psychopy.visual.basevisual import BaseVisualStim, ContainerMixin
